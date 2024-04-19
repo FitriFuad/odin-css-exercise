@@ -17,8 +17,11 @@ body {
   font-weight: 800;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4843553e7a16e87b8ec57796c3ae27faf1d621af
 #confirm-button {
   background: green;
   color: white;
@@ -31,13 +34,17 @@ body {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 .text .child {
+=======
+.text.child {
+>>>>>>> 4843553e7a16e87b8ec57796c3ae27faf1d621af
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
-div.text {
+.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
